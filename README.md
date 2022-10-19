@@ -1,14 +1,14 @@
 # Olá, me chamo Vinicius Reis ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-### Ferramentas e Tecnologias
-***
+### Ferramentas e Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30"/>
 ***
 <div>
 <a href="https://github.com/reisvmr">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisvmr&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reisvmr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reisvmr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" />
+          
 </div>
 
 
