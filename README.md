@@ -4,7 +4,7 @@
 - 💼 Atualmente estou trabalhando como Security Analyst no Departamento de Controle do Espaço Aéreo (DECEA).
 - 🎓 Graduado em Redes de Computadores.
 - 🎓 Pos Graduado em Segurança da Informação e em Cloud Computer.
-- 🤔 Estou procurando ajuda com ...
+- 📌 RJ 
 - ⚡ Curiosidade: Curto filmes Games e Series...
 
 ### Ferramentas e Tecnologias:
@@ -12,7 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" />
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png width="30" height="30" />
 <img src=https://alternative.me/media/256/zabbix-icon-9tsddwdsnewrjs91-c.png width="30" height="30" />
-          
+ 
 ***
 <div>
 <a href="https://github.com/reisvmr">
