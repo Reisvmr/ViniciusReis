@@ -1,6 +1,12 @@
 # Olá, me chamo Vinicius Reis ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
+- 💼 Atualmente estou trabalhando como Security Analyst no Departamento de Controle do Espaço Aéreo (DECEA).
+- 🎓 Graduado em Redes de Computadores.
+- 🎓 Pos Graduado em Segurança da Informação e em Cloud Computer.
+- 🤔 Estou procurando ajuda com ...
+- ⚡ Curiosidade: Curto filmes Games e Series...
+
 ### Ferramentas e Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="30" height="30" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" />
@@ -19,9 +25,6 @@
 ## Contatos:
 
 <div>
-
-<a href="https://instagram.com/reisvmr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:reisvmr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vinicius-de-matos-reis-32888a2b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
