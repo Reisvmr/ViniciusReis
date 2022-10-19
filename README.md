@@ -13,9 +13,6 @@
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png width="30" height="30" />
 <img src=https://alternative.me/media/256/zabbix-icon-9tsddwdsnewrjs91-c.png width="30" height="30" />
  
-***
-![Snake animation](https://github.com/reisvmr/reisvmr/blob/output/github-contribution-grid-snake.svg)
-***
 
 <div>
 <a href="https://github.com/reisvmr">
